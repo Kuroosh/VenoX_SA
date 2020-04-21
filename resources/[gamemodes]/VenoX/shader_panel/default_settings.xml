@@ -1,0 +1,8 @@
+<root>
+		<option effect="palette" visible="true" unlocked="true" started="0" maxlist="10" />
+		<option effect="post_process" visible="true" unlocked="true" started="1" maxlist="6"/>
+		<option effect="car_paint" visible="true" unlocked="true" started="2" maxlist="3"/>
+		<option effect="water" visible="true" unlocked="true" started="0" maxlist="2"/>
+		<option effect="radial_blur" visible="true" unlocked="true" started="0" maxlist="1"/>
+		<option effect="detail" visible="true" unlocked="true" started="0" maxlist="1"/>
+</root>

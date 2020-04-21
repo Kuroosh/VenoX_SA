@@ -1,0 +1,24 @@
+﻿Picciotto = 0
+Button Man = 1
+Capodecina = 2
+Capo = 3
+Consiglieri = 4
+Don = 5
+
+Deklariert in Fraktionen\Chat
+
+------
+
+Befugnisse:
+
+0 = Waffenhandel
+1 = Waffenlieferung
+2 = Überwachungsraum, Lagerzugriff
+3 = Familien Kasse
+4 = giveRank 0-3
+5 = giveRank 0-4, In/Uninvite
+
+------
+
+Skins:
+

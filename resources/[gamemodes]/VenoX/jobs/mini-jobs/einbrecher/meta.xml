@@ -1,0 +1,6 @@
+<meta>
+	<info author="Sebastian 'seb' Cronberg" description="Robber Job" version="1" type="misc"/>
+	<script src="robber_client.lua" type="client"/>
+	<script src="robber_server.lua" type="server"/>
+	<file src="files/cash.mp3"/>
+</meta>

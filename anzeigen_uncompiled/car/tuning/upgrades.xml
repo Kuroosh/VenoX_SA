@@ -1,0 +1,232 @@
+<upgrades>
+  <upgrade id="1000" name="Pro" />
+  <upgrade id="1001" name="Win" />
+  <upgrade id="1002" name="Drag" />
+  <upgrade id="1003" name="Alpha" />
+  <upgrade id="1004" name="Champ scoop" />
+  <upgrade id="1005" name="Fury scoop" />
+  <upgrade id="1006" name="Roof scoop" />
+  <upgrade id="1007" name="Right Sideskirt" />
+  <upgrade id="1008" name="Nitro 5x" />
+  <upgrade id="1009" name="Nitro 2x" />
+  <upgrade id="1010" name="Nitro 10x" />
+  
+  <upgrade id="1011" name="Race scoop" />
+  <upgrade id="1012" name="Worx scoop" />
+  <upgrade id="1013" name="Round fog lamps" />
+  <upgrade id="1014" name="Champ" />
+  <upgrade id="1015" name="Race" />
+  <upgrade id="1016" name="Worx" />
+  <upgrade id="1017" name="Left Sideskirt" />
+  <upgrade id="1018" name="Upswept" />
+  <upgrade id="1019" name="Twin" />
+  <upgrade id="1020" name="Large" />
+  
+  <upgrade id="1021" name="Medium" />
+  <upgrade id="1022" name="Small" />
+  
+  <upgrade id="1023" name="Fury" />
+  
+  <upgrade id="1024" name="Square Fog lamps" />
+  
+  <upgrade id="1025" name="Offroad" />
+  
+  <upgrade id="1026" name="Right Alien Sideskirt			(Sultan)" />
+  <upgrade id="1027" name="Left Alien Sideskirt			(Sultan)" />
+  
+  <upgrade id="1028" name="Exhaust (Alien)			(Sultan)" />
+  <upgrade id="1029" name="Exhaust (X-flow)			(Sultan)" />
+
+  <upgrade id="1030" name="Left X-Flow Sideskirt			(Sultan)" />
+  
+  <upgrade id="1031" name="Right X-Flow Sideskirt			(Sultan)" />
+  
+  <upgrade id="1032" name="Roof vent (Alien)			(Sultan)" />
+  <upgrade id="1033" name="Roof vent (X-flow)			(Sultan)" />
+  
+  <upgrade id="1034" name="Exhaust (Alien)			(Elegy)" />
+  
+  <upgrade id="1035" name="X-Flow Roof Vent			(Elegy)" />
+  
+  <upgrade id="1036" name="Right Alien Sideskirt			(Sultan)" />
+  <upgrade id="1037" name="Exhaust (X-flow)			(Sultan)" />
+  
+  <upgrade id="1038" name="Roof vent (Alien)			(Elegy)" />
+  <upgrade id="1039" name="Left X-Flow Sideskirt			(Elegy)" />
+  <upgrade id="1040" name="Left Alien Sideskirt			(Elegy)" />
+  
+  <upgrade id="1041" name="Right X-Flow Sideskirt			(Sultan)" />
+  <upgrade id="1042" name="Right Chrome Sideskirt			(Broadway)" />
+  
+  <upgrade id="1043" name="Exhaust (Slamin)			(Broadway)" />
+  <upgrade id="1044" name="Exhaust (Chromer)			(Broadway)" />
+  
+  <upgrade id="1045" name="Exhaust (X-flow)			(Flash)" />
+  <upgrade id="1046" name="Exhaust (Alien			(Flash))" />
+  <upgrade id="1047" name="Right Alien Sideskirt			(Flash)" />
+  <upgrade id="1048" name="Right X-Flow Sideskirt			(Flash)" />
+  <upgrade id="1049" name="Spoiler (Alien)			(Flash)" />
+  <upgrade id="1050" name="Spoiler (X-flow)			(Flash)" />
+  
+  <upgrade id="1051" name="Left Alien Sideskirt			(Flash)" />
+  <upgrade id="1052" name="Left X-Flow Sideskirt			(Flash)" />
+  <upgrade id="1053" name="Roof (X-flow)			(Flash)" />
+  <upgrade id="1054" name="Roof (Alien)			(Flash)" />
+  <upgrade id="1055" name="Roof (Alien)			(Statum)" />
+  <upgrade id="1056" name="Right Alien Sideskirt			(Statum)" />
+  <upgrade id="1057" name="Right X-Flow Sideskirt			(Statum)" />
+  <upgrade id="1058" name="Spoiler (Alien)			(Statum)" />
+  <upgrade id="1059" name="Exhaust (X-flow)			(Statum)" />
+  <upgrade id="1060" name="Spoiler (X-flow)			(Statum)" />
+  
+  <upgrade id="1061" name="Roof vent (X-flow)			(Statum)" />
+  <upgrade id="1062" name="Left Alien Sideskirt			(Statum)" />
+  <upgrade id="1063" name="Left X-flow Sideskirt			(Statum)" />
+  <upgrade id="1064" name="Exhaust (Alien)			(Statum)" />
+  <upgrade id="1065" name="Exhaust (Alien)			(Jester)" />
+  <upgrade id="1066" name="Exhaust (X-Flow)			(Jester)" />
+  <upgrade id="1067" name="Roof (Alien)			(Jester)" />
+  <upgrade id="1068" name="Roof (X-flow)			(Jester)" />
+  <upgrade id="1069" name="Right Alien Sideskirt			(Jester)" />
+  
+  <upgrade id="1070" name="Right X-Flow Sideskirt			(Jester)" />
+  <upgrade id="1071" name="Left Alien Sideskirt			(Jester)" />
+  <upgrade id="1072" name="Left X-Flow Sideskirt			(Jester)" />
+  <upgrade id="1073" name="Shadow" />
+  <upgrade id="1074" name="Mega" />
+  <upgrade id="1075" name="Rimshine" />
+  <upgrade id="1076" name="Wires" />
+  <upgrade id="1077" name="Classic" />
+  <upgrade id="1078" name="Twist" />
+  <upgrade id="1079" name="Cutter" />
+  <upgrade id="1080" name="Switch" />
+  
+  <upgrade id="1081" name="Grove" />
+  <upgrade id="1082" name="Import" />
+  <upgrade id="1083" name="Dollar" />
+  <upgrade id="1084" name="Trance" />
+  <upgrade id="1085" name="Atomic" />
+  <upgrade id="1086" name="Stereo bass boost" />
+  <upgrade id="1087" name="Hydraulics" />
+  <upgrade id="1088" name="Roof (Alien)			(Uranus)" />
+  <upgrade id="1089" name="Exhaust (X-flow)			(Uranus)" />
+  
+  <upgrade id="1090" name="Right Alien Sideskirt			(Uranus)" />
+  <upgrade id="1091" name="Roof (X-flow)			(Uranus)" />
+  <upgrade id="1092" name="Exhaust (Alien)			(Uranus)" />
+  <upgrade id="1093" name="Right X-Flow Sideskirt			(Uranus)" />
+  <upgrade id="1094" name="Left Alien Sideskirt			(Uranus)" />
+  <upgrade id="1095" name="Right X-Flow Sideskirt			(Uranus)" />
+  <upgrade id="1096" name="Ahab" />
+  <upgrade id="1097" name="Virtual" />
+  <upgrade id="1098" name="Access" />
+  <upgrade id="1099" name="Left Chrome Sideskirt			(Broadway)" />
+  
+  <upgrade id="1100" name="Chrome Grill			(Remington)" />
+  <upgrade id="1101" name="Left `Chrome Flames` Sideskirt			(Remington)" />
+  <upgrade id="1102" name="Left `Chrome Strip` Sideskirt			(Savanna)" />
+  <upgrade id="1103" name="Roof Covertible			(Blade)" />
+  <upgrade id="1104" name="Exhaust (Chrome)			(Blade)" />
+  <upgrade id="1105" name="Exhaust (Slamin)			(Blade)" />
+  <upgrade id="1106" name="Right `Chrome Arches			(Remington)" />
+  <upgrade id="1107" name="Left `Chrome Strip` Sideskirt			(Blade)" />
+  <upgrade id="1108" name="Right `Chrome Strip` Sideskirt			(Blade)" />
+  <upgrade id="1109" name="Rear bullbars (Chrome)			(Slamvan)" />
+  <upgrade id="1110" name="Rear bullbars (Slamin)			(Slamvan)" />
+  
+  <upgrade id="1111" name="Unknown			(Slamvan)" />
+  <upgrade id="1112" name="Unknown			(Slamvan)" />
+  
+  <upgrade id="1113" name="Exhaust (Chrome)			(Slamvan)" /> 
+  <upgrade id="1114" name="Exhaust (Slamin)			(Slamvan)" />
+  <upgrade id="1115" name="Front bullbars (Chrome)			(Slamvan)" />
+  <upgrade id="1116" name="Front bullbars (Slamin)			(Slamvan)" />
+  <upgrade id="1117" name="Front bumper (Chrome)			(Slamvan)" />
+  <upgrade id="1118" name="Right `Chrome Trim` Sideskirt			(Slamvan)" />
+  <upgrade id="1119" name="Right `Wheelcovers` Sideskirt			(Slamvan)" />
+  <upgrade id="1120" name="Left `Chrome Trim` Sideskirt			(Slamvan)" />
+  
+  <upgrade id="1121" name="Left `Wheelcovers` Sideskirt			(Slamvan)" />
+  <upgrade id="1122" name="Right `Chrome Flames` Sideskirt			(Remington)" />
+  <upgrade id="1123" name="Bullbar Chrome Bars			(Remington)" />
+  <upgrade id="1124" name="Left `Chrome Arches` Sideskirt			(Remington)" />
+  <upgrade id="1125" name="Bullbar Chrome Lights			(Remington)" />
+  <upgrade id="1126" name="Exhaust (Chrome)			(Remington)" />
+  <upgrade id="1127" name="Exhaust (Slamin)			(Remington)" />
+  <upgrade id="1128" name="Roof (Vinyl Hardtop)			(Blade)" />
+  <upgrade id="1129" name="Exhaust (Chrome)			(Savanna)" />
+  <upgrade id="1130" name="Roof (Hardtop)			(Savanna)" />
+  
+  <upgrade id="1131" name="Roof (Softtop)			(Savanna)" />
+  <upgrade id="1132" name="Exhaust (Slamin)			(Savanna)" />
+  <upgrade id="1133" name="Right `Chrome Strip` Sideskirt			(Savanna)" />
+  <upgrade id="1134" name="Right `Chrome Strip` Sideskirt			(Tornado)" />
+  <upgrade id="1135" name="Exhaust (Slamin)			(Tornado)" />
+  <upgrade id="1136" name="Exhaust (Chrome)			(Tornado)" />
+  <upgrade id="1137" name="	Left `Chrome Strip` Sideskirt			(Tornado)" />
+  <upgrade id="1138" name="Spoiler (Alien)			(Sultan)" />
+  <upgrade id="1139" name="Spoiler (X-flow)			(Sultan)" />
+  
+  
+  <upgrade id="1140" name="Rear bumper (X-flow)			(Sultan)" />
+  <upgrade id="1141" name="Rear bumper (Alien)			(Sultan)" />
+  <upgrade id="1142" name="Left Oval Vents" />
+  <upgrade id="1143" name="Right Oval Vents" />
+  <upgrade id="1144" name="Left Square Vents" />
+  <upgrade id="1145" name="Right Square Vents" />
+  <upgrade id="1146" name="Spoiler (X-flow)			(Elegy)" />
+  <upgrade id="1147" name="Spoiler (Alien)			(Elegy)" />
+  <upgrade id="1148" name="Rear bumber (X-flow)			(Elegy)" />
+  <upgrade id="1149" name="Rear bumber (Alien)			(Elegy)" />
+  <upgrade id="1150" name="Rear bumber (Alien)			(Flash)" />
+  
+  
+  <upgrade id="1151" name="Rear bumber (X-flow			(Flash))" />
+  <upgrade id="1152" name="Front bumper (X-flow)			(Flash)" />
+  <upgrade id="1153" name="Front bumper (Alien)			(Flash)" />
+  <upgrade id="1154" name="Rear bumber (X-flow)			(Statum)" />
+  <upgrade id="1155" name="Front bumper (Alien)			(Statum)" />
+  <upgrade id="1156" name="Rear bumper (Alien)			(Statum)" />
+  <upgrade id="1157" name="Front bumper (X-flow)			(Statum)" />
+  <upgrade id="1158" name="Spoiler (X-flow)			(Jester)" />
+  <upgrade id="1159" name="Rear Bumper (Alien)			(Jester)" />
+  <upgrade id="1160" name="Front bumber (Alien)			(Jester)" />
+  
+  
+  <upgrade id="1161" name="Rear bumber (X-flow)			(Jester)" />
+  <upgrade id="1162" name="Spoiler (Alien)			(Jester)" />
+  <upgrade id="1163" name="Spoiler (X-flow)			(Uranus)" />
+  <upgrade id="1164" name="Spoiler (Alien)			(Uranus)" />
+  <upgrade id="1165" name="Front bumber (X-flow)			(Uranus)"/>
+  <upgrade id="1166" name="Front bumber (Alien)			(Uranus)"/>
+  <upgrade id="1167" name="Rear bumper (X-flow)			(Uranus)" />
+  <upgrade id="1168" name="Rear bumper (Alien)			(Uranus)" />
+  <upgrade id="1169" name="Front bumper (Alien)			(Sultan)" />
+  <upgrade id="1170" name="Front bumper (X-flow)			(Sultan)" />
+  
+  
+  <upgrade id="1171" name="Front bumper (Alien)			(Elegy)" />
+  <upgrade id="1172" name="Front bumper (X-flow)			(Elegy)" />
+  <upgrade id="1173" name="Front bumper (X-flow)			(Jester)" />
+  <upgrade id="1174" name="Front bumper (Chrome)			(Broadway)" />
+  <upgrade id="1175" name="Rear bumper (Slamin)			(Broadway)" />
+  <upgrade id="1176" name="Front bumper (Chrome)			(Broadway)" />
+  <upgrade id="1177" name="Rear bumper (Slamin)			(Broadway)" />
+  <upgrade id="1178" name="Rear bumper (Slamin)			(Remington)" />
+  <upgrade id="1179" name="Front bumper (Chrome)			(Remington)" />
+  
+  <upgrade id="1180" name="Rear bumper (Chrome)			(Remington)" />
+  <upgrade id="1181" name="Front bumper (Slamin)			(Blade)" />
+  <upgrade id="1182" name="Front bumper (Chrome)			(Blade)" />
+  <upgrade id="1183" name="Rear bumper (Slamin)			(Blade)" />
+  <upgrade id="1184" name="Rear bumper (Chrome)			(Blade)" />
+  <upgrade id="1185" name="Front bumper (Slamin)			(Remington)" />
+  <upgrade id="1186" name="Rear bumper (Slamin)			(Savanna)" />
+  <upgrade id="1187" name="Rear bumper (Chrome)			(Savanna)" />
+  <upgrade id="1188" name="Front bumper (Slamin)			(Savanna)" />
+  <upgrade id="1189" name="Front bumper (Chrome)			(Savanna)" />
+  <upgrade id="1190" name="Front bumper (Slamin)			(Tornado)" />
+  <upgrade id="1191" name="Front bumper (Chrome)			(Tornado)" />
+  <upgrade id="1192" name="Rear bumper (Chrome)			(Tornado)" />
+  <upgrade id="1193" name="Rear bumper (Slamin)			(Tornado)" />
+</upgrades>

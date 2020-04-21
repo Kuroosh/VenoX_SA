@@ -1,0 +1,23 @@
+<map edf:definitions="editor_main">
+    <object id="object (helipad01) (1)" doublesided="false" model="3934" interior="0" dimension="0" posX="1132" posY="-1222.5" posZ="24.299999237061" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (helipad01) (2)" doublesided="false" model="3934" interior="0" dimension="0" posX="1132" posY="-1239.4000244141" posZ="24.299999237061" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (helipad) (1)" doublesided="false" model="3928" interior="0" dimension="0" posX="1175.4000244141" posY="-1182.1999511719" posZ="90.410003662109" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (bollardlight) (3)" doublesided="false" model="1215" interior="0" dimension="0" posX="1179.1999511719" posY="-1185.6999511719" posZ="91" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (bollardlight) (4)" doublesided="false" model="1215" interior="0" dimension="0" posX="1179.1999511719" posY="-1178.8000488281" posZ="91" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (bollardlight) (5)" doublesided="false" model="1215" interior="0" dimension="0" posX="1171.5" posY="-1178.9000244141" posZ="91" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (bollardlight) (6)" doublesided="false" model="1215" interior="0" dimension="0" posX="1171.4000244141" posY="-1185.6999511719" posZ="91" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (freight_SFW_door) (1)" doublesided="false" model="2944" interior="0" dimension="0" posX="1171.3000488281" posY="-1173.9000244141" posZ="90.300003051758" rotX="0" rotY="90" rotZ="0"></object>
+    <object id="object (bollardlight) (7)" doublesided="false" model="1215" interior="0" dimension="0" posX="1140.8000488281" posY="-1253.3000488281" posZ="24.89999961853" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (bollardlight) (8)" doublesided="false" model="1215" interior="0" dimension="0" posX="1121.9000244141" posY="-1212.4000244141" posZ="24.89999961853" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (bollardlight) (9)" doublesided="false" model="1215" interior="0" dimension="0" posX="1141.1999511719" posY="-1212.1999511719" posZ="24.89999961853" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (shbbyhswall06_lvs) (1)" doublesided="false" model="8650" interior="0" dimension="0" posX="1140.599609375" posY="-1212.099609375" posZ="22.300001144409" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (AMMO_BOX_c2) (1)" doublesided="false" model="2358" interior="0" dimension="0" posX="1100.5" posY="-1183.0999755859" posZ="19.700000762939" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (AMMO_BOX_c2) (2)" doublesided="false" model="2358" interior="0" dimension="0" posX="1101.5999755859" posY="-1183.4000244141" posZ="19.700000762939" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (AMMO_BOX_c5) (1)" doublesided="false" model="2359" interior="0" dimension="0" posX="1101" posY="-1183.9000244141" posZ="19.700000762939" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (AMMO_BOX_c5) (2)" doublesided="false" model="2359" interior="0" dimension="0" posX="1102.4000244141" posY="-1183.9000244141" posZ="19.700000762939" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (AMMO_BOX_M3) (1)" doublesided="false" model="2042" interior="0" dimension="0" posX="1101.5" posY="-1184.5" posZ="19.60000038147" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (AMMO_BOX_M4) (1)" doublesided="false" model="2043" interior="0" dimension="0" posX="1102.5" posY="-1182.6999511719" posZ="19.60000038147" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (des_quarrygate) (2)" doublesided="false" model="3049" interior="0" dimension="0" posX="1141.3000488281" posY="-1203.4000244141" posZ="20.5" rotX="0" rotY="0" rotZ="270"></object>
+    <object id="object (elecfence_BAR) (1)" doublesided="false" model="987" interior="0" dimension="0" posX="1074.5" posY="-1200.5" posZ="16.2" rotX="0" rotY="11" rotZ="269"></object>
+    <object id="object (elecfence_BAR) (3)" doublesided="false" model="987" interior="0" dimension="0" posX="1125.1999511719" posY="-1160.1999511719" posZ="22.799999237061" rotX="0" rotY="0" rotZ="180"></object>
+</map>

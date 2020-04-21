@@ -1,0 +1,31 @@
+--[[-------------------------------------------------
+Notes:
+
+> This code is using a custom font. This will only work as long as the location it is from always exists, and the resource it is part of is running.
+    To ensure it does not break, it is highly encouraged to move custom fonts into your local resource and reference them there.
+--]]-------------------------------------------------
+
+
+
+local dxfont0_arial = dxCreateFont(":pr0/files/fonts/arial.ttf", 10)
+local dxfont1_arial = dxCreateFont(":pr0/files/fonts/arial.ttf", 19)
+
+addEventHandler("onClientRender", root,
+    function()
+        dxDrawRectangle(411, 623, 545, 48, tocolor(0, 0, 0, 182), false)
+        dxDrawRectangle(411, 719, 545, 48, tocolor(0, 0, 0, 182), false)
+        dxDrawRectangle(411, 671, 14, 48, tocolor(0, 0, 0, 182), false)
+        dxDrawRectangle(942, 671, 14, 48, tocolor(0, 0, 0, 182), false)
+        dxDrawLine(427 - 1, 673 - 1, 427 - 1, 717, tocolor(0, 150, 200, 100), 1, false)
+        dxDrawLine(940, 673 - 1, 427 - 1, 673 - 1, tocolor(0, 150, 200, 100), 1, false)
+        dxDrawLine(427 - 1, 717, 940, 717, tocolor(0, 150, 200, 100), 1, false)
+        dxDrawLine(940, 717, 940, 673 - 1, tocolor(0, 150, 200, 100), 1, false)
+        dxDrawRectangle(427, 673, 513, 44, tocolor(0, 0, 0, 182), false)
+        dxDrawRectangle(428, 674, 511, 42, tocolor(0, 150, 200, 100), false)
+        dxDrawText("Wusstest du schon? \n Das Venox Reallife viele Jobs anbietet?", 411, 623, 956, 671, tocolor(255, 255, 255, 255), 1.00, dxfont0_arial, "center", "center", false, true, false, false, false)
+        dxDrawRectangle(436, 575, 495, 48, tocolor(0, 0, 0, 182), false)
+        dxDrawText("Venox Reallife Krankenhaus", 437, 575, 931, 623, tocolor(255, 255, 255, 255), 1.00, dxfont1_arial, "center", "center", false, true, false, false, false)
+        dxDrawText("120 Sekunden", 427, 673, 939, 716, tocolor(255, 255, 255, 255), 1.00, "default", "center", "center", false, false, false, false, false)
+        dxDrawRectangle(436, 621, 494, 2, tocolor(0, 150, 255, 255), false)
+    end
+)

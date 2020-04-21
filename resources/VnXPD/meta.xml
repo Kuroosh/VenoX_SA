@@ -1,0 +1,22 @@
+<meta>
+	<info author="MasterM" version="1.3" name="dPol" description="Texturen und Sounds von deutschen Polizeiwagen." type="script" /> 
+    
+	<script src="dPol_s.lua" type="server" />
+	<script src="dPol_c.lua" type="client" />
+
+	<file src="res/sound/Sirene.wav"/>
+	<file src="res/sound/Feuerwehr.wav"/>
+	<file src="res/sound/Polizei.wav"/>
+	<file src="res/swap.fx"/>
+	<file src="res/img/copcar.png"/>
+	<file src="res/img/copranch.png"/>
+	<file src="res/img/copdec.png"/>
+	<file src="res/img/pol.png"/>
+	<file src="res/img/ambulance.png"/>
+	<file src="res/img/fireclear.png"/>
+	<file src="res/img/firedecal.png"/>
+	
+	<!--Export, um aus anderen Ressourcen die Sirenen hinzuzufügen-->
+	<export function="createVehicle" />
+    <min_mta_version client="1.4" server="1.4"></min_mta_version>
+</meta>

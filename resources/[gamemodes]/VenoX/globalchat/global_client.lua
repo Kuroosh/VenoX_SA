@@ -1,0 +1,1 @@
+bindKey("z", "down", "chatbox", "global") 

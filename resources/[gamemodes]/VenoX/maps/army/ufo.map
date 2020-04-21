@@ -1,0 +1,11 @@
+﻿<map edf:definitions="editor_main">
+    <object id="object (des_ufosign) (1)" dimension="1" interior="0" model="16778" posX="43.628467559814" posY="2231.5498046875" posZ="228.625" rotX="0" rotY="180" rotZ="0" />
+    <marker id="marker (cylinder) (1)" color="#B59F4999" dimension="1" interior="0" posX="43.830318450928" posY="2231.6223144531" posZ="221.38388061523" size="1" type="cylinder" />
+    <marker id="marker (cylinder) (2)" color="#b59f4999" dimension="1" interior="0" posX="43.830318450928" posY="2231.6223144531" posZ="220.63388061523" size="1.2000000476837" type="cylinder" />
+    <marker id="marker (cylinder) (3)" color="#b59f4999" dimension="1" interior="0" posX="43.830318450928" posY="2231.6223144531" posZ="219.88388061523" size="1.3999999761581" type="cylinder" />
+    <marker id="marker (cylinder) (4)" color="#b59f4999" dimension="1" interior="0" posX="43.830318450928" posY="2231.6223144531" posZ="218.88388061523" size="1.6000000238419" type="cylinder" />
+    <marker id="marker (cylinder) (5)" color="#b59f4999" dimension="1" interior="0" posX="43.830318450928" posY="2231.6223144531" posZ="217.63388061523" size="1.7999999523163" type="cylinder" />
+    <marker id="marker (cylinder) (6)" color="#b59f4999" dimension="1" interior="0" posX="43.830318450928" posY="2231.6223144531" posZ="216.13388061523" size="2" type="cylinder" />
+    <marker id="marker (cylinder) (7)" color="#b59f4999" dimension="1" interior="0" posX="43.830318450928" posY="2231.6223144531" posZ="214.88388061523" size="2.2000000476837" type="cylinder" />
+    <marker id="marker (corona) (1)" color="#E2D61C99" dimension="1" interior="0" posX="43.212715148926" posY="2231.4311523438" posZ="222.6930847168" size="1" type="corona" />
+</map>

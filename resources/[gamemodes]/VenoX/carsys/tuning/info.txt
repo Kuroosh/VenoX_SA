@@ -1,0 +1,16 @@
+﻿1 = Spoiler
+2 = Motorhaube
+3 = Dach
+4 = Seitenschweller
+5 = Nitro
+6 = Lampen
+7 = Auspuff
+8 = Räder
+9 = Figur
+10 = Hydraulik 
+11 = Radio
+12 = Chrom, Vorne
+13 = Chrom, Hinten
+14 = Hinterer Stoßdämpfer
+15 = Front Stoßdämpfer
+16 = Lufteinlässe

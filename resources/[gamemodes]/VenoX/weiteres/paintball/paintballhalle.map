@@ -1,0 +1,5 @@
+<map edf:definitions="editor_main">
+    <object id="object (chinaTgarageDoor) (1)" doublesided="false" model="2957" interior="2" dimension="1000" posX="2526.6000976563" posY="-1300" posZ="1032" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (kmb_netting) (1)" doublesided="false" model="2945" interior="2" dimension="1000" posX="2533.3999023438" posY="-1283.9000244141" posZ="1048.5999755859" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (kmb_netting) (2)" doublesided="false" model="2945" interior="2" dimension="1000" posX="2533.3999023438" posY="-1283.9000244141" posZ="1051.8000488281" rotX="0" rotY="0" rotZ="0"></object>
+</map>

@@ -1,0 +1,4 @@
+-- Ablage --
+--[[
+	Copyrights by MulTi
+]]

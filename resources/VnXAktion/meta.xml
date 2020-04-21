@@ -1,0 +1,9 @@
+<meta>
+<script src="server.lua" type="server" cache="false"/>
+<script src="client.lua" type="client" cache="false"/>
+<script src="dxGui.lua" type="client" cache="false"/>
+<file src="images/vnxicon.png" />
+<file src="images/kreis.png" />
+<file src="fonts/drugs.ttf"/>
+<file src="fonts/Roboto-Thin.ttf"/>
+</meta>

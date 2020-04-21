@@ -1,0 +1,6 @@
+﻿txd = engineLoadTXD ( "fraktionen/biker/skins/wmycr.txd" )
+engineImportTXD ( txd, 100 )
+txd = engineLoadTXD ( "fraktionen/biker/skins/bikera.txd" )
+engineImportTXD ( txd, 247 )
+txd = engineLoadTXD ( "fraktionen/biker/skins/bikerb.txd" )
+engineImportTXD ( txd, 248 )

@@ -1,0 +1,29 @@
+﻿<map edf:definitions="editor_main">
+    <object id="object (sw_bankbits) (1)" doublesided="true" model="13007" interior="7" dimension="0" posX="293.56640625" posY="-167.076171875" posZ="887.00238037109" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (vault_door) (1)" doublesided="true" model="14576" interior="7" dimension="0" posX="288.681640625" posY="-173.5615234375" posZ="880.80297851563" rotX="0" rotY="0" rotZ="90"></object>
+    <object id="object (ab_mafsuiteDoor) (1)" doublesided="true" model="14638" interior="7" dimension="0" posX="304.47479248047" posY="-167.8703918457" posZ="880.97918701172" rotX="0" rotY="0" rotZ="270"></object>
+    <object id="object (ab_mafsuiteDoor) (3)" doublesided="true" model="14638" interior="7" dimension="0" posX="303.46166992188" posY="-170.59945678711" posZ="885.17041015625" rotX="0" rotY="0" rotZ="180"></object>
+    <object id="object (CJ_MONEY_BAG) (1)" doublesided="true" model="1550" interior="7" dimension="0" posX="266.40991210938" posY="-176.40431213379" posZ="873.00225830078" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (CJ_MONEY_BAG) (2)" doublesided="true" model="1550" interior="7" dimension="0" posX="265.9091796875" posY="-175.404296875" posZ="873.00225830078" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (CJ_MONEY_BAG) (3)" doublesided="true" model="1550" interior="7" dimension="0" posX="266.9091796875" posY="-175.904296875" posZ="873.00225830078" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (CJ_MONEY_BAG) (4)" doublesided="true" model="1550" interior="7" dimension="0" posX="265.9091796875" posY="-175.94030761719" posZ="873.00225830078" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (CJ_MONEY_BAG) (5)" doublesided="true" model="1550" interior="7" dimension="0" posX="267.1591796875" posY="-175.189453125" posZ="873.00225830078" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (CJ_MONEY_BAG) (6)" doublesided="true" model="1550" interior="7" dimension="0" posX="266.4091796875" posY="-174.689453125" posZ="873.00225830078" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (CJ_MONEY_BAG) (7)" doublesided="true" model="1550" interior="7" dimension="0" posX="265.6591796875" posY="-174.48086547852" posZ="873.00225830078" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (CJ_MONEY_BAG) (8)" doublesided="true" model="1550" interior="7" dimension="0" posX="267.1591796875" posY="-174.689453125" posZ="873.00225830078" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (ab_mafsuiteDoor) (4)" doublesided="true" model="14638" interior="7" dimension="0" posX="303.2587890625" posY="-170.2373046875" posZ="880.97918701172" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (ab_mafsuiteDoor) (5)" doublesided="true" model="14638" interior="7" dimension="0" posX="303.45553588867" posY="-169.25527954102" posZ="885.17041015625" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (ab_mafsuiteDoor) (6)" doublesided="true" model="14638" interior="7" dimension="0" posX="303.45013427734" posY="-170.69213867188" posZ="887.31109619141" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (ab_mafsuiteDoor) (7)" doublesided="true" model="14638" interior="7" dimension="0" posX="285.0126953125" posY="-158.7392578125" posZ="885.10046386719" rotX="0" rotY="0" rotZ="269.99938964844"></object>
+    <object id="object (fencesmallb) (1)" doublesided="true" model="970" interior="7" dimension="0" posX="305.18310546875" posY="-167.90205383301" posZ="881.56427001953" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (fencesmallb) (2)" doublesided="true" model="970" interior="7" dimension="0" posX="305.1826171875" posY="-167.9013671875" posZ="882.59613037109" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (fencesmallb) (3)" doublesided="true" model="970" interior="7" dimension="0" posX="305.1826171875" posY="-167.9013671875" posZ="883.58374023438" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (fencesmallb) (4)" doublesided="true" model="970" interior="7" dimension="0" posX="303.26309204102" posY="-168.61743164063" posZ="881.505859375" rotX="0" rotY="0" rotZ="90"></object>
+    <object id="object (fencesmallb) (5)" doublesided="true" model="970" interior="7" dimension="0" posX="303.2626953125" posY="-168.6171875" posZ="882.61206054688" rotX="0" rotY="0" rotZ="90"></object>
+    <object id="object (fencesmallb) (6)" doublesided="true" model="970" interior="7" dimension="0" posX="303.2626953125" posY="-168.6171875" posZ="883.67443847656" rotX="0" rotY="0" rotZ="90"></object>
+    <object id="object (ab_mafsuiteDoor) (9)" doublesided="true" model="14638" interior="7" dimension="0" posX="288.02642822266" posY="-158.74560546875" posZ="885.08630371094" rotX="0" rotY="0" rotZ="90"></object>
+    <object id="object (ab_mafsuiteDoor) (11)" doublesided="true" model="14638" interior="7" dimension="0" posX="285.02529907227" posY="-158.7392578125" posZ="885.10046386719" rotX="0" rotY="0" rotZ="90"></object>
+    <object id="object (fencesmallb) (10)" doublesided="true" model="970" interior="7" dimension="0" posX="286.1865234375" posY="-158.69396972656" posZ="885.65533447266" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (fencesmallb) (11)" doublesided="true" model="970" interior="7" dimension="0" posX="286.1865234375" posY="-158.693359375" posZ="886.70843505859" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (fencesmallb) (12)" doublesided="true" model="970" interior="7" dimension="0" posX="286.1865234375" posY="-158.693359375" posZ="887.77081298828" rotX="0" rotY="0" rotZ="0"></object>
+</map>

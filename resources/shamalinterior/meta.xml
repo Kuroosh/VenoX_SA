@@ -1,0 +1,4 @@
+<meta>
+	<info name="Shamal Interior" author="terminator" version="1.0.1" type="misc" />
+	<script src="script.lua" type="server" />
+</meta>

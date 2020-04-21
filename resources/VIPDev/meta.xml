@@ -1,0 +1,10 @@
+<meta>
+
+<script src="dxGui.lua" type="client" cache="false" />
+<script src="client.lua" type="client" cache="false" />
+<script src="server.lua" type="server" cache="false" />
+<file  src="images/music_blaster.png" />
+<file src="fonts/drugs.ttf"/>
+<file src="fonts/Roboto-Thin.ttf"/>
+<file src="fonts/arial.ttf"/>
+</meta>

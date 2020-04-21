@@ -1,0 +1,25 @@
+
+
+addEventHandler("onClientRender", root,
+    function()
+        dxDrawLine(1001 - 1, 5 - 1, 1001 - 1, 192, tocolor(29, 236, 255, 254), 1, false)
+        dxDrawLine(1354, 5 - 1, 1001 - 1, 5 - 1, tocolor(29, 236, 255, 254), 1, false)
+        dxDrawLine(1001 - 1, 192, 1354, 192, tocolor(29, 236, 255, 254), 1, false)
+        dxDrawLine(1354, 192, 1354, 5 - 1, tocolor(29, 236, 255, 254), 1, false)
+        dxDrawRectangle(1001, 5, 353, 187, tocolor(0, 0, 0, 120), false)
+        dxDrawLine(1145, 89, 1341, 89, tocolor(109, 0, 0, 212), 30, false)
+        dxDrawText("Venox-Reallife(2019)", 1123, 6, 1260, 20, tocolor(29, 236, 255, 254), 1.00, "default", "left", "top", false, false, false, false, false)
+        dxDrawLine(1145, 44, 1341, 44, tocolor(0, 109, 119, 254), 30, false)
+        dxDrawLine(1145, 135, 1341, 135, tocolor(0, 127, 6, 138), 30, false)
+        dxDrawImage(1105, 24, 36, 36, ":VenoX/images/hud/hud_2/armor.png", 0, 0, 0, tocolor(0, 109, 119, 254), false)
+        dxDrawImage(1102, 71, 39, 35, ":VenoX/images/hud/hud_2/heart2.png", 0, 0, 0, tocolor(185, 0, 0, 212), false)
+        dxDrawImage(1105, 120, 36, 32, ":VenoX/images/10.png", 0, 0, 0, tocolor(255, 255, 255, 255), false)
+        dxDrawImage(1100, 159, 31, 27, ":VenoX/images/hud/hud_2/money_wallet.png", 0, 0, 0, tocolor(255, 255, 255, 255), false)
+        dxDrawImage(1007, 50, 79, 60, ":VenoX/anzeigen/cpickup/images/kreis.png", 0, 0, 0, tocolor(255, 255, 255, 255), false)
+        dxDrawImage(1007, 120, 79, 60, ":VenoX/anzeigen/cpickup/images/kreis.png", 0, 0, 0, tocolor(255, 255, 255, 255), false)
+        dxDrawText("13:12h", 1008, 16, 1092, 45, tocolor(9, 217, 254, 255), 2.00, "default", "left", "top", false, false, false, false, false)
+        dxDrawImage(1027, 63, 40, 37, ":VenoX/images\damage.png", 0, 0, 0, tocolor(0, 0, 0, 255), false)
+        dxDrawImage(1029, 132, 38, 32, ":VenoX/images/20.png", 0, 0, 0, tocolor(255, 255, 255, 255), false)
+        dxDrawText("+538.264.597.114", 1138, 157, 1341, 182, tocolor(6, 251, 254, 255), 2.00, "default", "left", "top", false, false, false, false, false)
+    end
+)

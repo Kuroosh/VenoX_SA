@@ -1,0 +1,14 @@
+<map edf:definitions="editor_main">
+    <object id="object (vgwstnewall6905) (1)" breakable="true" interior="0" collisions="true" alpha="255" model="7922" doublesided="false" scale="1" dimension="0" posX="-2178.5" posY="35.3" posZ="35.7" rotX="0" rotY="0" rotZ="180.5"></object>
+    <object id="object (vgwstnewall6905) (2)" breakable="true" interior="0" collisions="true" alpha="255" model="7922" doublesided="false" scale="1" dimension="0" posX="-2178.5" posY="46.6" posZ="35.7" rotX="0" rotY="0" rotZ="270"></object>
+    <object id="object (vgwstnewall6905) (3)" breakable="true" interior="0" collisions="true" alpha="255" model="7922" doublesided="false" scale="1" dimension="0" posX="-2178.5" posY="46.6" posZ="38.4" rotX="0" rotY="0" rotZ="270"></object>
+    <object id="object (vgwstnewall6905) (4)" breakable="true" interior="0" collisions="true" alpha="255" model="7922" doublesided="false" scale="1" dimension="0" posX="-2178.5" posY="35.29981" posZ="38.2" rotX="0" rotY="0" rotZ="180.5"></object>
+    <object id="object (tag_front) (1)" breakable="true" interior="0" collisions="true" alpha="255" model="1524" doublesided="false" scale="1" dimension="0" posX="-2177.3999" posY="48.8" posZ="36.7" rotX="0" rotY="0" rotZ="179"></object>
+    <object id="object (tag_temple) (1)" breakable="true" interior="0" collisions="true" alpha="255" model="1529" doublesided="false" scale="1" dimension="0" posX="-2177.3" posY="52" posZ="36.5" rotX="0" rotY="0" rotZ="177.5"></object>
+    <object id="object (vgsSstairs03_lvs) (2)" breakable="true" interior="0" collisions="true" alpha="255" model="8613" doublesided="false" scale="1" dimension="0" posX="-2202.3" posY="75.8" posZ="35.8" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (lxr_motel_doorsim) (1)" breakable="true" interior="0" collisions="true" alpha="255" model="2987" doublesided="false" scale="1" dimension="0" posX="-2210" posY="79.6" posZ="35.5" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (tall_fence) (1)" breakable="true" interior="0" collisions="true" alpha="255" model="974" doublesided="false" scale="1" dimension="0" posX="-2239.8" posY="74.3" posZ="36.9" rotX="0" rotY="0" rotZ="90"></object>
+    <object id="object (tall_fence) (2)" breakable="true" interior="0" collisions="true" alpha="255" model="974" doublesided="false" scale="1" dimension="0" posX="-2239.8" posY="80.9" posZ="36.9" rotX="0" rotY="0" rotZ="90"></object>
+    <object id="object (tall_fence) (3)" breakable="true" interior="0" collisions="true" alpha="255" model="974" doublesided="false" scale="1" dimension="0" posX="-2208.1001" posY="29.3" posZ="36.9" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (tall_fence) (4)" breakable="true" interior="0" collisions="true" alpha="255" model="974" doublesided="false" scale="1" dimension="0" posX="-2214.8" posY="29.3" posZ="36.9" rotX="0" rotY="0" rotZ="0"></object>
+</map>

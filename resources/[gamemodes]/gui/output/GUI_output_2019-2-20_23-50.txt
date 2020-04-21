@@ -1,0 +1,12 @@
+
+
+addEventHandler("onClientRender", root,
+    function()
+        dxDrawRectangle(490, 200, 393, 320, tocolor(0, 0, 0, 160), false)
+        dxDrawRectangle(501, 243, 230, 185, tocolor(0, 105, 145, 255), false)
+        dxDrawText("15 $ fü+r asdasdasdasdasdasdasd", 502, 442, 873, 512, tocolor(255, 255, 255, 255), 1.00, "pricedown", "left", "top", false, false, false, false, false)
+        dxDrawRectangle(741, 363, 132, 43, tocolor(145, 0, 0, 255), false)
+        dxDrawRectangle(741, 297, 132, 43, tocolor(0, 145, 27, 255), false)
+        dxDrawText("LVL : 1", 736, 244, 873, 287, tocolor(255, 255, 255, 255), 1.00, "pricedown", "center", "center", false, false, false, false, false)
+    end
+)

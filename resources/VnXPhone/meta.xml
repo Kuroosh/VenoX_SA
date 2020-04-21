@@ -1,0 +1,21 @@
+<meta>
+
+<script src="dxGui.lua" type="client" cache="false" />
+	<file src="images/vnxphone.png" />
+	<file src="images/logo.png" />
+	<file src="images/wallpaper1.png" />
+	<file src="images/call.png" />
+	<file src="images/message.png" />
+	<file src="images/pornhub.png" />
+	<file src="images/music.png" />
+	<file src="images/off.png" />
+	<file src="images/blue_call_wallpaper.png" />
+	<file src="images/sms_wp.png" />
+	<file src="fonts/drugs.ttf"/>
+	<file src="fonts/Roboto-Thin.ttf"/>
+	<file src="images/music_wp.png"/>
+	<file src="images/ammunation.png"/>
+	<file src="images/ammunation_background.png"/>
+<script src="client.lua" type="client" cache="false" />
+<script src="server.lua" type="server" cache="false" />
+</meta>

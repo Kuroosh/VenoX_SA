@@ -1,0 +1,1 @@
+﻿ALTER TABLE `inventar` ADD `fishing` VARCHAR ( 39 ) NOT NULL DEFAULT '0|0|0|0;0|0;0|0;0'

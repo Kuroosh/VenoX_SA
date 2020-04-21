@@ -1,0 +1,8 @@
+<meta>
+    <info type="map" version="1.0.0"></info>
+    <map src="SF.map" dimension="0"></map>
+    <script src="mod.lua" type="client" />
+    <file src="data/oldgarage_sfse.txd" /> 
+    <file src="data/hubint1_sfse.txd" /> 
+	
+</meta>

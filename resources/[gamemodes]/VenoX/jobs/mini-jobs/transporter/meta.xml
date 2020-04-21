@@ -1,0 +1,9 @@
+<meta>
+	<info author="Al3grab" version="1.1" type="script" name="Transporter Mission" description="Transporter Mission" />
+	<file src="missionDone.mp3" />
+	<file src="fail.mp3" />
+	<include resource="easytext" />
+	<script src="Server.lua" type="server" />
+	<script src="Client.lua" type="client" />
+	<script src="Settings.lua" type="server" />
+</meta>

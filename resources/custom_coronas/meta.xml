@@ -1,0 +1,16 @@
+<meta>
+	<info name="custom_coronas" author="Ren712" version="1.0.6" type="script" />
+	<min_mta_version client="1.3.4" server="1.3.4" />
+	<script src="c_main.lua" type="client" />
+	<script src="c_helper_functions.lua" type="client" />
+	<script src="c_exported_functions.lua" type="client" />
+	<file src="shaders/custom_corona0.fx" type="client" />
+	<file src="shaders/custom_corona1.fx" type="client" />
+	<file src="textures/coronastar.png" type="client" />
+	<export function="createCorona" type="client" />
+	<export function="destroyCorona" type="client" />
+	<export function="setCoronaPosition" type="client" />
+	<export function="setCoronaColor" type="client" />
+	<export function="setCoronaSize" type="client" />
+	<export function="setCoronasDistFade" type="client" />
+</meta>

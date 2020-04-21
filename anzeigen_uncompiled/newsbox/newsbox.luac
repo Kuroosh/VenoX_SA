@@ -1,0 +1,41 @@
+﻿addEvent ( "deActivateCustomRadar", true )
+
+function news1 ()
+	outputChatBox ( "#ffffff───────────────| #ff7800VenoX-RL Info #ffffff|───────────────", getRootElement(), 56, 56, 56, true )
+	outputChatBox ( "Bei Fragen und Problemen benutzt /report", getRootElement(), 255, 255, 255 )
+	outputChatBox ( "Jeder User ist verpflichtet, die Regeln unter F9 nachzulesen.", getRootElement(), 255, 255, 255 )
+	outputChatBox ( "Du willst dir Premium kaufen? Dann melde dich bei einem Teammitglied.", getRootElement(), 255, 255, 255 )
+	outputChatBox ( "Um einer Fraktion beizutreten, melde dich im Teamspeak³.", getRootElement(), 255, 255, 255 )
+	outputChatBox ( "Teamspeak: VenoX-Reallife.ml", getRootElement(), 255, 255, 255 )
+	outputChatBox ( "──────────────────────────────────────────", getRootElement(), 255, 120, 0 )
+	setTimer ( news2, 600000, 1 )
+end
+function news2 ()
+	outputChatBox ( "#ffffff───────────────| #ff7800VenoX-RL Info #ffffff|───────────────", getRootElement(), 56, 56, 56, true )
+	outputChatBox ( "Bei Fragen und Problemen benutzt /report, für alle Admins online /admins.", getRootElement(), 255, 255, 255 )
+	outputChatBox ( "Jeder User ist verpflichtet, die Regeln unter F9 nachzulesen.", getRootElement(), 255, 255, 255 )
+	outputChatBox ( "Du willst dir Premium kaufen? Dann melde dich bei einem Teammitglied.", getRootElement(), 255, 255, 255 )
+	outputChatBox ( "Nutze /save, um deine Position und deine Waffen zu sichern.", getRootElement(), 255, 255, 255 )
+	outputChatBox ( "Service Nummern: Polizei - 110 | Sanitäter - 112 | Mechaniker - 300", getRootElement(), 255, 255, 255 )
+	outputChatBox ( "Shader kannst du per /shader aktivieren.", getRootElement(), 255, 255, 255 )
+	outputChatBox ( "──────────────────────────────────────────", getRootElement(), 255, 120, 0 )
+	setTimer ( news3, 600000, 1 )
+end
+function news3 ()
+	outputChatBox ( "#ffffff───────────────| #ff7800VenoX-RL Info #ffffff|───────────────", getRootElement(), 56, 56, 56, true )
+	outputChatBox ( "Mit /admins seht ihr, welcher Admin momentan online ist.", getRootElement(), 255, 255, 255 )
+	outputChatBox ( "Jeder User ist verpflichtet, die Regeln unter F9 nachzulesen.", getRootElement(), 255, 255, 255 )
+	outputChatBox ( "Du willst dir Premium kaufen? Dann melde dich bei einem Teammitglied.", getRootElement(), 255, 255, 255 )
+	outputChatBox ( "Beim gelben Punkt kannst du dir Scheine kaufen und dich über Jobs informieren.", getRootElement(), 255, 255, 255 )
+	outputChatBox ( "Teamspeak: VenoX-Reallife.ml", getRootElement(), 255, 255, 255 )
+	outputChatBox ( "──────────────────────────────────────────", getRootElement(), 255, 120, 0 )
+	setTimer ( news1, 600000, 1 )
+end
+setTimer ( news1, 600000, 1 )
+
+function infobox ( player, text, time, r, g, b )
+
+	if isElement ( player ) then
+		triggerClientEvent ( player, "infobox_start", getRootElement(), text, time, r, g, b )
+	end
+end

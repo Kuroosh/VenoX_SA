@@ -1,0 +1,8 @@
+<meta>
+<info name="BlinkersInVehicle" author="spawnMTA" type="script" version="0.1"/>
+
+<script src="server.lua" type="client" />
+<file src="sounds/blinkerOn.mp3" />
+<file src="sounds/blinkerOff.mp3" />
+
+</meta>

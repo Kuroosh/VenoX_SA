@@ -1,0 +1,58 @@
+<meta>
+	<info author="MulTi" version="0.2"/>
+		
+		<oop>true</oop>
+			
+		<script src="config.lua"/>
+		
+		<script src="temp.lua" type="client"/>
+		
+		<script src="classes/sDownloader.lua" type="server"/>
+		<script src="classes/cDownloader.lua" type="client" cache="false"/>
+		
+		<script src="gui/cDownloadGUI.lua"  type="client" cache="false"/>
+		
+		
+		<file src="gui/files/DownloadButton.png"/>
+		<file src="gui/files/DownloadButtonHover.png"/>
+		
+		<file src="gui/files/AktivierenButton.png"/>
+		<file src="gui/files/AktivierenButtonHover.png"/>
+		<file src="gui/files/DeaktivierenButton.png"/>
+		<file src="gui/files/DeaktivierenButtonHover.png"/>
+		<file src="gui/files/LoeschenButton.png"/>
+		<file src="gui/files/LoeschenButtonHover.png"/>
+		
+		<!-- Cop Car SF VW passat -->
+		
+		<file src="mods/copcar/copcarla.txd" download="false" />
+		<file src="mods/copcar/copcarla.dff" download="false" />
+
+		<file src="mods/groveskins/fam1/fam1.txd" download="false" />
+		<file src="mods/groveskins/fam1/fam1.dff" download="false" />
+		<file src="mods/groveskins/fam2/fam2.txd" download="false" />
+		<file src="mods/groveskins/fam2/fam2.dff" download="false" />
+		<file src="mods/groveskins/fam3/fam3.txd" download="false" />
+		<file src="mods/groveskins/fam3/fam3.dff" download="false" />
+		
+		<file src="gui/Bilder/BMW.jpg" />
+		<file src="gui/Bilder/ladescreen.png" />
+		<file src="gui/Bilder/FBIRancher.jpg" />
+		<file src="gui/Bilder/VW.jpg" />
+		<file src="gui/Bilder/Benz-Infernus.jpg" />
+		<file src="gui/Bilder/Civic.jpg" />
+		<file src="gui/Bilder/Eclipse.jpg" />
+		<file src="gui/Bilder/Enforcer.jpg" />
+		<file src="gui/Bilder/Patriot.jpg" />
+		<file src="mods/Supra/Supra.jpg" />
+		<file src="mods/ZR-350/RX7.jpg" />
+		<file src="mods/audia8/audia8.png" />
+		<file src="mods/groveskins/igetmuni.png" />
+		<file src="mods/groveskins/grove.png" />
+		<file src="mods/cesar_skin/screen.jpg" />
+		<file src="mods/SkinbyBabdu/screen.png" />
+		<file src="mods/ballasskins/Ballas.png" />
+		<file src="mods/atzenskins/aztec.png" />
+		<file src="mods/triadenskins/triboss.jpg" />
+		<file src="mods/triadenskins/yajz.jpg" />
+</meta>

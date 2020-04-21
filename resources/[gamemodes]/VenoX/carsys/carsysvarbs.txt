@@ -1,0 +1,11 @@
+﻿ElementData ( Spieler ) :
+carbuyslot = Slot für neukaufbares Fahrzeug
+curcars = Anzahl der Aktuellen Fahrzeuge
+maxcars = maximale Anzahl verfügbarer Fahrzeuge
+carslot[1-maxcars] = Jeweils für ein Fahrzeug, 1 = Besetzt, 0/nil = Frei
+lookcar = Fahrzeug das man sich grad anschaut
+
+ElementData ( Fahrzeug ) :
+owner = Besitzer
+carslotnr_owner = Slot beim Besitzer
+name = Name des Vehicles ( privVeh[Besitzername][Slot]

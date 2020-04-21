@@ -1,0 +1,7 @@
+<meta>
+
+<script src="dxGui.lua" type="client" cache="false" />
+	<file src="0.png" />
+	<script src="client.lua" type="client" cache="false" />
+	<script src="server.lua" type="server" cache="false" />
+</meta>

@@ -1,0 +1,95 @@
+local car1 = createVehicle(455, -2281.4526367188, 1.2805700302124, 35.890312194824, 0, 0, 180)
+setElementFrozen(car1, true)
+setVehicleDamageProof(car1, true)
+
+local car2 = createVehicle(455, -2301.7700195313, 40.735118865967, 35.882499694824, 0, 0, 270)
+setElementFrozen(car2, true)
+setVehicleDamageProof(car2, true)
+
+local car3 = createVehicle(455, -2311.2302246094, -59.620048522949, 35.882499694824, 0, 0, 90)
+setElementFrozen(car3, true)
+setVehicleDamageProof(car3, true)
+
+local car4 = createVehicle(455, -2363.5329589844, 12.639987945557, 35.882499694824, 0, 0, 0)
+setElementFrozen(car4, true)
+setVehicleDamageProof(car4, true)
+
+local car5 = createVehicle(455, -2363.6918945313, -24.850505828857, 35.882499694824)
+setElementFrozen(car5, true)
+setVehicleDamageProof(car5, true)
+
+local lohn = 150
+local stabler = {}
+
+local pickup = createPickup(-2355.1640625, -48.202514648438, 35.3125, 3, 1239, 1000)
+local marker = createMarker(-2355.1640625, -48.202514648438, 35.3125, "corona", 1.0, 0, 0, 0, 0)
+local blip = createBlip(-2337.6252441406, -45.171924591064, 35.3125, 51, 2, 255, 0, 0, 255, 0, 999)
+
+
+
+addEventHandler("onMarkerHit", marker, function(hitElement)
+	if(getElementType(hitElement) == "player") then
+		-- SICHERHEITSHINWEIS, LEYYNEN HIER AEHM JOB HINZUFUEGEN ODER WIE DAS BEI VIO IST --
+		triggerClientEvent("onClientGabelstablerJobHit", hitElement)
+	end
+end)
+
+
+
+addEvent("onGabelstablerJobStart", true)
+addEvent("onGabelstablerJobAbgeliefert", true)
+addEvent("onGabelstablerJobStop", true)
+
+addEventHandler("onGabelstablerJobStart", getRootElement(), function()
+	if(isElement(stabler[source])) then return end
+	if(getElementData(source, "job") == "gabelstabler") then return end
+	setCameraMatrix(source, -2313.0173339844, -25.002979278564, 38.655281066895, -2253.0859375, 53.50564956665, 23.014768600464)
+	outputChatBox("Lade die Kisten auf deinem Gabelstabler. Fuer jede kiste bekommst du $"..lohn..". Du bekommst extra Geld fuer gruene Kisten.", source, 0, 255, 0)
+	setElementFrozen(source, true)
+	local thePlayer = source
+	setTimer(function()
+		outputChatBox("Bringe die Kisten dann zu den Flatbed's. Tippe /stopjob ein, wenn du aufhoeren moechtest.", thePlayer, 0, 255, 0)
+		setCameraMatrix(thePlayer, -2289.3623046875, 10.423163414001, 38.604030609131, -2226.4858398438, -62.950981140137, 12.859321594238)
+		setTimer(function()
+			fadeCamera(thePlayer, false)
+			setTimer(function()
+				if(isElement(thePlayer)) then
+					setElementFrozen(thePlayer, false)
+					setCameraTarget(thePlayer, thePlayer)
+					fadeCamera(thePlayer, true)
+					setElementData(thePlayer, "job", "gabelstabler")
+					stabler[thePlayer] = createVehicle(getVehicleIDFromName("Forklift"), -2345.4543457031, -55.290908813477, 35.471656799316, 0, 0, 0, getPlayerName(thePlayer))
+					warpPedIntoVehicle(thePlayer, stabler[thePlayer])
+					setVehicleDamageProof(stabler[thePlayer], true)
+				end
+			end, 1500, 1)
+		end, 2500, 1)
+	end, 5000, 1)
+end)
+
+addEventHandler("onGabelstablerJobStop", getRootElement(), function()
+	local thePlayer = source
+	if(stabler[thePlayer]) and (getElementData(thePlayer, "job") == "gabelstabler") then
+		destroyElement(stabler[thePlayer])
+		setElementData(thePlayer, "job", false)
+		triggerClientEvent(thePlayer, "onClientGabelstablerJobQuit", thePlayer)
+		outputChatBox("Job beendet!", thePlayer, 0, 255, 255)
+	end
+end)
+
+addCommandHandler("stopjob", function(thePlayer)
+	triggerEvent("onGabelstablerJobStop", thePlayer)
+end)
+
+addEventHandler("onPlayerWasted", getRootElement(), function()
+	if(stabler[source]) then
+		triggerEvent("onGabelstablerJobStop", source)
+	end
+end)
+
+addEventHandler("onPlayerQuit", getRootElement(), function()
+	if(stabler[source]) then
+		triggerEvent("onGabelstablerJobStop", source)
+	end
+end)
+

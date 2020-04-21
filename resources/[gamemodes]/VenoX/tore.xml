@@ -1,0 +1,29 @@
+<root>
+    <!--Beispiel Tor-->
+    <Tor ID="1" Modell="11313" X="1525.0999755859" Y="2878.6000976563" Z="11.800000190735" Rot="0" Ort="Las Venturas" Preis="50000" Besitzer="Keiner"></Tor>
+    <Tor ID="2" Modell="11313" X="-2072.3000488281" Y="-47.799999237061" Z="36.299999237061" Rot="270" Ort="San Fierro" Preis="50000" Besitzer="Keiner"></Tor>
+    <Tor ID="3" Modell="11313" X="-2064.8000488281" Y="-47.799999237061" Z="36.299999237061" Rot="270" Ort="San Fierro" Preis="50000" Besitzer="Keiner"></Tor>
+    <Tor ID="4" Modell="11313" X="-2057.3000488281" Y="-47.799999237061" Z="36.299999237061" Rot="270" Ort="San Fierro" Preis="50000" Besitzer="Keiner"></Tor>
+    <Tor ID="5" Modell="11313" X="-2049.6999511719" Y="-47.799999237061" Z="36.299999237061" Rot="270" Ort="San Fierro" Preis="50000" Besitzer="Keiner"></Tor>
+    <Tor ID="6" Modell="11313" X="-2065" Y="90.699996948242" Z="29.39999961853" Rot="266" Ort="San Fierro" Preis="50000" Besitzer="Dr.Trax"></Tor>
+    <Tor ID="7" Modell="11313" X="-2016.8000488281" Y="406.20001220703" Z="36.099998474121" Rot="0" Ort="San Fierro" Preis="50000" Besitzer="[RR]Slowman"></Tor>
+    <Tor ID="8" Modell="11313" X="-2016.8000488281" Y="414.29998779297" Z="36.099998474121" Rot="0" Ort="San Fierro" Preis="50000" Besitzer="Slowman"></Tor>
+    <Tor ID="9" Modell="11313" X="-2016.8000488281" Y="422.5" Z="36.099998474121" Rot="0" Ort="San Fierro" Preis="50000" Besitzer="ZOMBEYY"></Tor>
+    <Tor ID="10" Modell="11313" X="-2016.8000488281" Y="430.60000610352" Z="36.099998474121" Rot="0" Ort="San Fierro" Preis="50000" Besitzer="[RR]Solid_Snake"></Tor>
+    <Tor ID="11" Modell="11313" X="-2052.3000488281" Y="402.70001220703" Z="36.099998474121" Rot="270" Ort="San Fierro" Preis="50000" Besitzer="Sniper"></Tor>
+    <Tor ID="12" Modell="11313" X="-2044.8000488281" Y="402.70001220703" Z="36.099998474121" Rot="270" Ort="San Fierro" Preis="50000" Besitzer="SuperTalent"></Tor>
+    <Tor ID="13" Modell="11313" X="-2037.1999511719" Y="402.70001220703" Z="36.099998474121" Rot="270" Ort="San Fierro" Preis="50000" Besitzer="Heino"></Tor>
+    <Tor ID="14" Modell="11313" X="-2029.5" Y="402.70001220703" Z="36.099998474121" Rot="270" Ort="San Fierro" Preis="50000" Besitzer="iTzSaske"></Tor>
+    <Tor ID="15" Modell="11313" X="-1577.3000488281" Y="679.70001220703" Z="8.1999998092651" Rot="270" Ort="San Fierro" Preis="50000" Besitzer="Keiner"></Tor>
+    <Tor ID="16" Modell="11313" X="-2080.1000976563" Y="485.5" Z="36.099998474121" Rot="270" Ort="San Fierro" Preis="50000" Besitzer="Keiner"></Tor>
+    <Tor ID="17" Modell="11313" X="-2087.6999511719" Y="485.5" Z="36.099998474121" Rot="270" Ort="San Fierro" Preis="50000" Besitzer="Keiner"></Tor>
+    <Tor ID="18" Modell="11313" X="-2095.3999023438" Y="485.5" Z="36.099998474121" Rot="270" Ort="San Fierro" Preis="50000" Besitzer="Klein-Tarkan"></Tor>
+    <Tor ID="19" Modell="11313" X="-2103.1000976563" Y="485.5" Z="36.099998474121" Rot="270" Ort="San Fierro" Preis="50000" Besitzer="aimtier"></Tor>
+    <Tor ID="20" Modell="11313" X="-2110.6999511719" Y="485.5" Z="36.099998474121" Rot="270" Ort="San Fierro" Preis="50000" Besitzer="Keiner"></Tor>
+    <Tor ID="21" Modell="11313" X="-2118.1999511719" Y="485.5" Z="36.099998474121" Rot="270" Ort="San Fierro" Preis="50000" Besitzer="Keiner"></Tor>
+    <Tor ID="22" Modell="11313" X="-2125.6999511719" Y="485.5" Z="36.099998474121" Rot="270" Ort="San Fierro" Preis="50000" Besitzer="Keiner"></Tor>
+    <Tor ID="23" Modell="11313" X="-2100.30004888281" Y="462.70001220703" Z="36.099998474121" Rot="90" Ort="San Fierro" Preis="50000" Besitzer="Keiner"></Tor>
+    <Tor ID="24" Modell="11313" X="-2108" Y="462.70001220703" Z="36.099998474121" Rot="90" Ort="San Fierro" Preis="50000" Besitzer="Keiner"></Tor>
+    <Tor ID="25" Modell="11313" X="-2115.6999511719" Y="462.70001220703" Z="36.099998474121" Rot="90" Ort="San Fierro" Preis="50000" Besitzer="Emre"></Tor>
+    <Tor ID="26" Modell="11313" X="-2123.3000488281" Y="462.70001220703" Z="36.099998474121" Rot="90" Ort="San Fierro" Preis="50000" Besitzer="Keiner"></Tor>
+</root>

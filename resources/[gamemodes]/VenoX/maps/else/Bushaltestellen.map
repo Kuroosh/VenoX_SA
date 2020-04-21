@@ -1,0 +1,10 @@
+﻿<map edf:definitions="editor_main">
+    <object id="object (bustopm) (1)" doublesided="false" model="1257" interior="0" dimension="0" posX="-1992.6531982422" posY="490.72158813477" posZ="35.366683959961" rotX="0" rotY="0" rotZ="0" />
+    <object id="object (bustopm) (3)" doublesided="false" model="1257" interior="0" dimension="0" posX="-1630.6645507813" posY="721.38970947266" posZ="14.888566970825" rotX="0" rotY="0" rotZ="270" />
+    <object id="object (bustopm) (4)" doublesided="false" model="1257" interior="0" dimension="0" posX="-1686.8802490234" posY="941.46325683594" posZ="24.971380233765" rotX="0" rotY="0" rotZ="90" />
+    <object id="object (bustopm) (5)" doublesided="false" model="1257" interior="0" dimension="0" posX="-2469.8029785156" posY="815.34906005859" posZ="35.458877563477" rotX="0" rotY="0" rotZ="90" />
+    <object id="object (bustopm) (6)" doublesided="false" model="1257" interior="0" dimension="0" posX="-2757.0615234375" posY="352" posZ="4.6336669921875" rotX="0" rotY="0" rotZ="180" />
+    <object id="object (bustopm) (7)" doublesided="false" model="1257" interior="0" dimension="0" posX="-2640.0544433594" posY="210.80856323242" posZ="4.6073169708252" rotX="0" rotY="0" rotZ="270" />
+    <object id="object (bustopm) (8)" doublesided="false" model="1257" interior="0" dimension="0" posX="-1459.6228027344" posY="-272.9338684082" posZ="14.427629470825" rotX="0" rotY="0" rotZ="75" />
+	<object id="object (gatehouse1_SFSe) (1)" doublesided="false" model="10829" interior="0" dimension="0" posX="-2266.3754882813" posY="178.32325744629" posZ="34.305629730225" rotX="0" rotY="0" rotZ="0" />
+	</map>

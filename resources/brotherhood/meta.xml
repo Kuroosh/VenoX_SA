@@ -1,0 +1,6 @@
+<meta>
+    <script src="broterhoodmap_c.lua" type="client" cache="false"/>
+    <script src="broterhoodmap_s.lua" type="server" cache="false"/>
+    <map src="brotherhood.map" />
+
+</meta>

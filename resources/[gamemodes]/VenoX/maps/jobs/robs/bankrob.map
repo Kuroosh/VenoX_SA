@@ -1,0 +1,37 @@
+<map edf:definitions="editor_main">
+    <object id="object (kmb_crash3door) (3)" doublesided="false" model="2924" interior="3" dimension="5" posX="368.69021606445" posY="162.95736694336" posZ="1025.9826660156" rotX="0" rotY="0" rotZ="90"></object>
+    <object id="object (warehouse_door1) (2)" doublesided="false" model="2904" interior="3" dimension="5" posX="368.74600219727" posY="162.20915222168" posZ="1026.0952148438" rotX="0" rotY="0" rotZ="90"></object>
+    <object id="object (warehouse_door1) (3)" doublesided="false" model="2904" interior="3" dimension="5" posX="368.7451171875" posY="162.208984375" posZ="1028.5952148438" rotX="0" rotY="0" rotZ="90"></object>
+    <object id="object (kmb_crash3door) (4)" doublesided="false" model="2924" interior="3" dimension="5" posX="350.94387817383" posY="162.74423217773" posZ="1025.9826660156" rotX="0" rotY="0" rotZ="90"></object>
+    <object id="object (warehouse_door1) (14)" doublesided="false" model="2904" interior="1" dimension="5" posX="2147.7680664062" posY="1604.7060546875" posZ="1006.4738769531" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (warehouse_door1) (17)" doublesided="false" model="2904" interior="1" dimension="5" posX="2147.767578125" posY="1604.7060546875" posZ="1008.9738769531" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (kmb_crash3door) (5)" doublesided="false" model="2924" interior="1" dimension="5" posX="2148.4602050781" posY="1604.5490722656" posZ="1006.361328125" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (warehouse_door1) (18)" doublesided="false" model="2904" interior="1" dimension="5" posX="2148.4104003906" posY="1604.6529541016" posZ="1002.2738037109" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (warehouse_door1) (19)" doublesided="false" model="2904" interior="1" dimension="5" posX="2148.41015625" posY="1604.65234375" posZ="1004.7978515625" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (warehouse_door1) (20)" doublesided="false" model="2904" interior="1" dimension="5" posX="2149.8544921875" posY="1602.8756103516" posZ="1002.2738037109" rotX="0" rotY="0" rotZ="270"></object>
+    <object id="object (warehouse_door1) (21)" doublesided="false" model="2904" interior="1" dimension="5" posX="2149.8544921875" posY="1602.875" posZ="1004.84765625" rotX="0" rotY="0" rotZ="270"></object>
+    <object id="object (xref_garagedoor) (1)" doublesided="false" model="2885" interior="3" dimension="5" posX="368.89999389648" posY="162.60000610352" posZ="1031.5" rotX="0" rotY="0.5" rotZ="90"></object>
+    <object id="object (xref_garagedoor) (2)" doublesided="false" model="2885" interior="3" dimension="5" posX="350.70001220703" posY="162.69999694824" posZ="1031.5" rotX="0" rotY="0.4998779296875" rotZ="269.50006103516"></object>
+    <object id="object (warehouse_door1) (23)" doublesided="false" model="2904" interior="1" dimension="5" posX="2149.8544921875" posY="1602.875" posZ="1007.4224853516" rotX="0" rotY="0" rotZ="270"></object>
+    <object id="object (ab_warehouseShelf) (1)" doublesided="false" model="2567" interior="1" dimension="5" posX="2132.7451171875" posY="1625.2611083984" posZ="994.61578369141" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (ab_warehouseShelf) (2)" doublesided="false" model="2567" interior="1" dimension="5" posX="2132.3674316406" posY="1609.6755371094" posZ="994.61578369141" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (kmb_atm2) (1)" doublesided="false" model="2943" interior="1" dimension="5" posX="2147.1000976562" posY="1627.6999511719" posZ="993.29998779297" rotX="0" rotY="0" rotZ="176"></object>
+    <object id="object (ab_warehouseShelf) (3)" doublesided="false" model="2567" interior="1" dimension="5" posX="2132.265625" posY="1617.3703613281" posZ="994.61578369141" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (kmb_atm3) (1)" doublesided="false" model="3067" interior="1" dimension="5" posX="2147.3000488281" posY="1626.3000488281" posZ="992.90002441406" rotX="359.49560546875" rotY="86.031951904297" rotZ="342.23260498047"></object>
+    <object id="object (ab_warehouseShelf) (7)" doublesided="false" model="2567" interior="1" dimension="5" posX="2155.66796875" posY="1625.2607421875" posZ="994.61578369141" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (ab_warehouseShelf) (8)" doublesided="false" model="2567" interior="1" dimension="5" posX="2155.66796875" posY="1615.5114746094" posZ="994.61578369141" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (crates) (1)" doublesided="false" model="18257" interior="1" dimension="5" posX="2157.1645507812" posY="1616.0935058594" posZ="992.68817138672" rotX="0" rotY="0" rotZ="70"></object>
+    <object id="object (kmb_atm2) (2)" doublesided="false" model="2943" interior="1" dimension="5" posX="2146.3000488281" posY="1627.5999755859" posZ="993.09997558594" rotX="0" rotY="317" rotZ="177.99548339844"></object>
+    <object id="object (RACK2) (3)" doublesided="false" model="925" interior="1" dimension="5" posX="2141.5283203125" posY="1625.1241455078" posZ="993.75006103516" rotX="0" rotY="0" rotZ="330"></object>
+    <object id="object (RACK2) (5)" doublesided="false" model="925" interior="1" dimension="5" posX="2132.5161132812" posY="1620.8260498047" posZ="995.88275146484" rotX="0" rotY="0" rotZ="60"></object>
+    <object id="object (fire_break) (1)" doublesided="false" model="2961" interior="1" dimension="5" posX="2142.5" posY="1606.9000244141" posZ="994.5" rotX="0" rotY="0.75" rotZ="183.50006103516"></object>
+    <object id="object (RACK2) (6)" doublesided="false" model="925" interior="1" dimension="5" posX="2154.5" posY="1621.2630615234" posZ="993.75006103516" rotX="0" rotY="0" rotZ="109.99633789062"></object>
+    <object id="object (RACK2) (7)" doublesided="false" model="925" interior="1" dimension="5" posX="2132.5634765625" posY="1613.6865234375" posZ="993.75006103516" rotX="0" rotY="0" rotZ="109.9951171875"></object>
+    <object id="object (RACK2) (8)" doublesided="false" model="925" interior="1" dimension="5" posX="2154.3474121094" posY="1621.2229003906" posZ="995.88275146484" rotX="0" rotY="0" rotZ="79.995147705078"></object>
+    <object id="object (k_cargo2) (1)" doublesided="false" model="2973" interior="1" dimension="5" posX="2151.4306640625" posY="1608.1086425781" posZ="992.46313476562" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (k_cargo2) (2)" doublesided="false" model="2973" interior="1" dimension="5" posX="2151.4306640625" posY="1608.1083984375" posZ="994.9130859375" rotX="0" rotY="0" rotZ="40"></object>
+    <object id="object (k_cargo2) (3)" doublesided="false" model="2973" interior="1" dimension="5" posX="2148.3676757812" posY="1608.1083984375" posZ="992.46313476562" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (RACK2) (9)" doublesided="false" model="925" interior="1" dimension="5" posX="2132.66796875" posY="1620.763671875" posZ="993.75006103516" rotX="0" rotY="0" rotZ="69.999389648438"></object>
+    <object id="object (RACK2) (10)" doublesided="false" model="925" interior="1" dimension="5" posX="2148.080078125" posY="1625.0729980469" posZ="993.75006103516" rotX="0" rotY="0" rotZ="19.996337890625"></object>
+    <object id="object (CJ_OilDrum2) (2)" doublesided="false" model="2062" interior="1" dimension="5" posX="2147.6000976562" posY="1624.5999755859" posZ="993.29998779297" rotX="0" rotY="0" rotZ="0"></object>
+</map>

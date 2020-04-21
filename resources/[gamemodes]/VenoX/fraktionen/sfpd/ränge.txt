@@ -1,0 +1,30 @@
+﻿Cadet = 0
+Constable = 1
+Sergeant = 2
+Inspector = 3
+Superintendent = 4
+Chief = 5
+
+Deklariert in Fraktionen\Chat
+
+------
+
+Befugnisse:
+
+0 = Duty, Arrest, Grab, Tazer, Suspect, Copcar, Waffen
+1 = Copbike, Copboot
+2 = Clear, Heli
+3 = Jeep
+4 = giveRank 0-3
+5 = giveRank 0-4, In/Uninvite
+
+------
+
+Skins:
+
+281
+280
+282
+283
+284
+288

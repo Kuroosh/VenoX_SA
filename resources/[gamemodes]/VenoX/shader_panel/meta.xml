@@ -1,0 +1,41 @@
+<meta>
+	<info author="Ren712" name="Shader Panel" description="Ingame shader panel" version="1.1.0" type="script" />
+	<script src="c_sPanel.lua" type="client" />
+	<script src="c_sPanel_gui.lua" type="client" />
+	<script src="c_rtpool.lua" type="client" />
+	<config src="default_settings.xml" type="client" />
+	<file src="shaders/addPalette.fx" type="client" />
+	<file src="shaders/brightness.fx" type="client" />
+    <file src="shaders/brightPass.fx" type="client" />
+	<file src="shaders/addBlend.fx" type="client" />
+	<file src="shaders/blurH.fx" type="client" />
+	<file src="shaders/blurV.fx" type="client" />
+	<file src="shaders/dBlurH.fx" type="client" />
+	<file src="shaders/dBlurV.fx" type="client" />
+	<file src="shaders/mta-helper.fx" type="client" />
+	<file src="shaders/car_paint.fx" type="client" />
+	<file src="shaders/car_refgrun.fx" type="client" />
+	<file src="shaders/car_refgrunL.fx" type="client" />
+	<file src="shaders/car_refgene.fx" type="client" />
+	<file src="shaders/water.fx" type="client" />
+	<file src="shaders/water_ref.fx" type="client" />
+	<file src="images/smallnoise3d.dds" type="client" />
+	<file src="images/cube_env256.dds" type="client" />
+	<file src="images/cube_veh256.dds" type="client" />
+	<file src="images/vignette1.dds" type="client" />
+	<file src="shaders/bloom_combine.fx" type="client" />
+	<file src="shaders/bloom_extract.fx" type="client" />
+	<file src="shaders/contrast.fx" type="client" />
+	<file src="shaders/modulation.fx" type="client" />
+	<file src="palettes/enbpalette1.png" type="client" />
+	<file src="palettes/enbpalette2.png" type="client" />
+	<file src="palettes/enbpalette3.png" type="client" />
+	<file src="palettes/enbpalette4.png" type="client" />
+	<file src="palettes/enbpalette5.png" type="client" />
+	<file src="palettes/enbpalette6.png" type="client" />
+	<file src="palettes/enbpalette7.png" type="client" />
+	<file src="palettes/enbpalette8.png" type="client" />
+	<file src="palettes/enbpalette9.png" type="client" />
+	<file src="palettes/enbpalette10.png" type="client" />
+</meta>
+

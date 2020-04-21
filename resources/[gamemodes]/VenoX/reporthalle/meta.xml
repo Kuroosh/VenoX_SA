@@ -1,0 +1,9 @@
+<meta>
+
+<info author="Xendom" script="Reporthalle" version="1.0" type="misc" />
+
+<script src="Reporthalle_server.lua"/>
+
+<map src="Reporthalle.map"/>
+
+</meta>

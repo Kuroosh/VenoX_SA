@@ -1,0 +1,10 @@
+
+:gui/output/GUI_output_2019-2-20_23-50.txt
+:gui/output/GUI_output_2019-2-20_23-50_(2).txt
+:gui/output/GUI_output_2019-2-22_2-49.txt
+:gui/output/GUI_output_2019-2-22_2-58.txt
+:gui/output/GUI_output_2019-2-22_3-11.txt
+:gui/output/GUI_output_2019-3-14_12-8.txt
+:gui/output/GUI_output_2019-3-17_21-40.txt
+:gui/output/GUI_output_2019-3-17_21-56.txt
+:gui/output/GUI_output_2019-3-17_21-56_(2).txt

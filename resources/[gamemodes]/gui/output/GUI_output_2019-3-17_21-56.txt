@@ -1,0 +1,52 @@
+--[[-------------------------------------------------
+Notes:
+
+> This code is using a custom font. This will only work as long as the location it is from always exists, and the resource it is part of is running.
+    To ensure it does not break, it is highly encouraged to move custom fonts into your local resource and reference them there.
+--]]-------------------------------------------------
+
+
+
+local dxfont0_arial = dxCreateFont(":venox/fonts/arial.ttf", 14)
+
+addEventHandler("onClientRender", root,
+    function()
+        dxDrawRectangle(1159, 110, 207, 48, tocolor(0, 0, 0, 138), false)
+        dxDrawRectangle(1058, 10, 101, 148, tocolor(0, 0, 0, 138), false)
+        dxDrawLine(1161 - 1, 26 - 1, 1161 - 1, 58, tocolor(0, 105, 145, 206), 1, false)
+        dxDrawLine(1356, 26 - 1, 1161 - 1, 26 - 1, tocolor(0, 105, 145, 206), 1, false)
+        dxDrawLine(1161 - 1, 58, 1356, 58, tocolor(0, 105, 145, 206), 1, false)
+        dxDrawLine(1356, 58, 1356, 26 - 1, tocolor(0, 105, 145, 206), 1, false)
+        dxDrawRectangle(1161, 26, 195, 32, tocolor(0, 0, 0, 138), false)
+        dxDrawRectangle(1163, 27, 191, 15, tocolor(0, 124, 171, 165), false)
+        dxDrawRectangle(1163, 42, 191, 15, tocolor(0, 105, 145, 185), false)
+        dxDrawText("100 %", 1161, 25, 1355, 58, tocolor(255, 255, 255, 255), 1.00, "default", "center", "center", false, false, false, false, false)
+        dxDrawLine(1161 - 1, 75 - 1, 1161 - 1, 107, tocolor(177, 0, 0, 138), 1, false)
+        dxDrawLine(1356, 75 - 1, 1161 - 1, 75 - 1, tocolor(177, 0, 0, 138), 1, false)
+        dxDrawLine(1161 - 1, 107, 1356, 107, tocolor(177, 0, 0, 138), 1, false)
+        dxDrawLine(1356, 107, 1356, 75 - 1, tocolor(177, 0, 0, 138), 1, false)
+        dxDrawRectangle(1161, 75, 195, 32, tocolor(0, 0, 0, 138), false)
+        dxDrawRectangle(1162, 76, 193, 15, tocolor(177, 0, 0, 138), false)
+        dxDrawRectangle(1162, 91, 193, 15, tocolor(161, 0, 0, 138), false)
+        dxDrawText("100 %", 1161, 74, 1355, 107, tocolor(255, 255, 255, 255), 1.00, "default", "center", "center", false, false, false, false, false)
+        dxDrawText("1255 $ ", 1161 - 1, 120 - 1, 1355 - 1, 148 - 1, tocolor(0, 0, 0, 255), 1.00, dxfont0_arial, "right", "center", false, false, false, false, false)
+        dxDrawText("1255 $ ", 1161 + 1, 120 - 1, 1355 + 1, 148 - 1, tocolor(0, 0, 0, 255), 1.00, dxfont0_arial, "right", "center", false, false, false, false, false)
+        dxDrawText("1255 $ ", 1161 - 1, 120 + 1, 1355 - 1, 148 + 1, tocolor(0, 0, 0, 255), 1.00, dxfont0_arial, "right", "center", false, false, false, false, false)
+        dxDrawText("1255 $ ", 1161 + 1, 120 + 1, 1355 + 1, 148 + 1, tocolor(0, 0, 0, 255), 1.00, dxfont0_arial, "right", "center", false, false, false, false, false)
+        dxDrawText("1255 $ ", 1161, 120, 1355, 148, tocolor(255, 255, 255, 255), 1.00, dxfont0_arial, "right", "center", false, false, false, false, false)
+        dxDrawRectangle(1058, 7, 308, 3, tocolor(0, 105, 145, 200), false)
+        dxDrawRectangle(1159, 10, 207, 14, tocolor(0, 0, 0, 138), false)
+        dxDrawRectangle(1159, 60, 207, 13, tocolor(0, 0, 0, 138), false)
+        dxDrawRectangle(1358, 73, 10, 37, tocolor(0, 0, 0, 138), false)
+        dxDrawRectangle(1358, 24, 10, 36, tocolor(0, 0, 0, 138), false)
+        dxDrawImage(1068, 107, 48, 48, ":VenoX/images\nametag\police.png", 0, 0, 0, tocolor(255, 255, 255, 255), false)
+        dxDrawImage(1070, 24, 73, 73, ":VenoX/images/hud/29.png", 0, 0, 0, tocolor(255, 255, 255, 255), false)
+        dxDrawText("100 / 400", 1070, 95, 1143, 104, tocolor(255, 255, 255, 255), 0.80, "default", "center", "center", false, false, false, false, false)
+        dxDrawImage(1060, 165, 30, 30, ":VenoX/images/hud/wanted_inactive.png", 0, 0, 0, tocolor(255, 255, 255, 255), false)
+        dxDrawImage(1100, 165, 30, 30, ":VenoX/images/hud/wanted_inactive.png", 0, 0, 0, tocolor(255, 255, 255, 255), false)
+        dxDrawImage(1141, 165, 30, 30, ":VenoX/images/hud/wanted_inactive.png", 0, 0, 0, tocolor(255, 255, 255, 255), false)
+        dxDrawImage(1181, 165, 30, 30, ":VenoX/images/hud/wanted_inactive.png", 0, 0, 0, tocolor(255, 255, 255, 255), false)
+        dxDrawImage(1221, 165, 30, 30, ":VenoX/images/hud/wanted_inactive.png", 0, 0, 0, tocolor(255, 255, 255, 255), false)
+        dxDrawImage(1261, 165, 30, 30, ":VenoX/images/hud/wanted_inactive.png", 0, 0, 0, tocolor(255, 255, 255, 255), false)
+    end
+)

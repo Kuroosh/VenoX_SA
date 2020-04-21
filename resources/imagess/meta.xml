@@ -1,0 +1,12 @@
+<meta>
+	<file src="HUD1.png" type="client" />
+	<file src="HUD2.png" type="client" />
+	<file src="HUD_oxigen.png" type="client" />
+	<file src="HUD_hunger.png" type="client" />
+	<file src="HUD_health.png" type="client" />
+	<file src="HUD_balken.png" type="client" />
+	<file src="RRold.png" type="client" />
+	<file src="profil.png" type="client" />
+	<file src="logo.png" type="client" />
+	<file src="blackwhite.fx" type="client" />
+</meta>

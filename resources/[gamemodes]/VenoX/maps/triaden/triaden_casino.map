@@ -1,0 +1,14 @@
+﻿<map edf:definitions="editor_main">
+    <object id="object (helipad01) (1)" doublesided="false" model="3934" interior="0" dimension="0" posX="2003.8626708984" posY="1007.2116699219" posZ="38.091094970703" rotX="0" rotY="0" rotZ="0" />
+    <object id="object (OG_Door) (1)" doublesided="false" model="14819" interior="0" dimension="0" posX="2018.7520751953" posY="1008.4146728516" posZ="39.241008758545" rotX="0" rotY="0" rotZ="90" />
+    <object id="object (bollardlight) (1)" doublesided="false" model="1215" interior="0" dimension="0" posX="2007.6083984375" posY="1010.5441894531" posZ="38.655418395996" rotX="0" rotY="0" rotZ="0" />
+    <object id="object (bollardlight) (2)" doublesided="false" model="1215" interior="0" dimension="0" posX="2007.5772705078" posY="1003.6942749023" posZ="38.655418395996" rotX="0" rotY="0" rotZ="0" />
+    <object id="object (bollardlight) (3)" doublesided="false" model="1215" interior="0" dimension="0" posX="1999.9272460938" posY="1003.6906738281" posZ="38.655418395996" rotX="0" rotY="0" rotZ="2" />
+    <object id="object (bollardlight) (4)" doublesided="false" model="1215" interior="0" dimension="0" posX="1999.9315185547" posY="1010.5415649414" posZ="38.655418395996" rotX="0" rotY="2" rotZ="1.99951171875" />
+    <object id="object (lift_dr) (1)" doublesided="false" model="3051" interior="0" dimension="0" posX="1920.6171875" posY="992.70147705078" posZ="11.174900054932" rotX="0" rotY="0" rotZ="45" />
+    <object id="object (lift_dr) (2)" doublesided="false" model="3051" interior="0" dimension="0" posX="1920.6049804688" posY="991.51696777344" posZ="11.174900054932" rotX="0" rotY="0" rotZ="225" />
+    <object id="object (crates01) (1)" doublesided="false" model="18260" interior="0" dimension="0" posX="1916.2370605469" posY="1016.9378051758" posZ="11.393505096436" rotX="0" rotY="0" rotZ="180" />
+    <object id="object (ammotrn_obj) (1)" doublesided="false" model="3066" interior="0" dimension="0" posX="1902.6480712891" posY="1016.5786743164" posZ="10.87458896637" rotX="0" rotY="0" rotZ="90" />
+    <object id="object (AMMO_BOX_c5) (1)" doublesided="false" model="2359" interior="0" dimension="0" posX="1911.3658447266" posY="1016.0397338867" posZ="12.025768280029" rotX="0" rotY="0" rotZ="0" />
+    <object id="object (tar_gun2) (1)" doublesided="false" model="1583" interior="0" dimension="0" posX="1913.2199707031" posY="1018.1460571289" posZ="9.8126964569092" rotX="340" rotY="0" rotZ="0" />
+</map>

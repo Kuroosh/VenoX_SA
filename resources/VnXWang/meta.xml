@@ -1,0 +1,8 @@
+<meta>
+    <info type="Map" name="New Wang Cars Texture" author="kewiiNNN" version="1.0" description="Replaced The Texture" />
+    <file src="carshow_sfse.txd" />
+    <file src="carshowglass_sfsx.txd" />
+    <script src="carshow.lua" type="client" />
+    <script src="mapEditorScriptingExtension_s.lua" type="server"></script>
+    <script src="mapEditorScriptingExtension_c.lua" type="client" validate="false"></script>
+</meta>
